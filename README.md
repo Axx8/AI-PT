@@ -31,10 +31,15 @@ XSS漏洞
 文件上传漏洞 
 ......
 ```
+
 ## 靶场页面
 ![image](https://github.com/user-attachments/assets/2aef615a-4758-46a6-8536-5ed1b838097c)
 ![image](https://github.com/user-attachments/assets/44617822-e186-4658-be5b-d9c057611e4d)
 ![image](https://github.com/user-attachments/assets/09630538-1bf6-48e4-b74a-6f95ff0d030d)
+## 攻击过程
+![图片](https://github.com/user-attachments/assets/89a79726-09f3-478a-8597-11e09d15c8b2)
+
+
 ## 感谢阅读
 ![image](https://github.com/user-attachments/assets/f9d8b35c-ce62-4ac0-8958-bad8c5a90eaa)
 ![image](https://mmbiz.qpic.cn/mmbiz_jpg/z3TOtprWtZibxicaHzm6icoKWFPFB9gcBcv3aWA5wEMcgOXfZpDoqgYicfibMPBzx2Jle7p28TWsEGCdgwsDRwhUy2w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
